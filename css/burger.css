@@ -46,10 +46,6 @@ main{
     display: inline-block;
 }
 
-#top{
-    margin-left: 150px;
-}
-
 #top > p{
     display: inline-block;
     font-size: 150px;
@@ -65,7 +61,7 @@ main{
     margin-right: 10px;
 }
 
-#bottom{
+#bottom, #top{
     width:100%;
     text-align: center;
 }
