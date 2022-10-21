@@ -8,6 +8,7 @@ main{
     height: 400px;
     margin-left: calc(50% - 500px / 2);
     margin-top: 100px;
+    display: inline-block;
 }
 
 #left{
